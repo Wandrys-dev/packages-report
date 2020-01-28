@@ -1,6 +1,8 @@
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
+## adding a comment
+
 #' Which libraries does R search for packages?
 .libPaths()
 
